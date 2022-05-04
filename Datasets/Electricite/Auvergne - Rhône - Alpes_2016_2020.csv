@@ -1,4 +1,4 @@
-Date;Heures;Consommation;Gaz;Tmin;Tmax;Tmoy
+Date;Heures;Electricite;Gaz;Tmin;Tmax;Tmoy
 01/01/2016;00:00;8114;2226;2.96;10.56;6.76
 01/01/2016;00:30;8012;2227;2.96;10.56;6.76
 01/01/2016;01:00;7789;2205;2.96;10.56;6.76
