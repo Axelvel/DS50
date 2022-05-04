@@ -1,4 +1,4 @@
-﻿Date;Heures;Consommation;Tmin;Tmoy;Tmax;Gaz;Taux de Co2
+﻿Date;Heures;Electricite;Gaz;Tmin;Tmax;Tmoy;Taux de Co2
 01/01/2016;00:00;5570;3.32;13.58;8.45;2226;31
 01/01/2016;00:30;5663;3.32;13.58;8.45;2227;31
 01/01/2016;01:00;5595;3.32;13.58;8.45;2205;32
